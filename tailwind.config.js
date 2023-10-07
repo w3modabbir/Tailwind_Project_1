@@ -3,6 +3,7 @@ tailwind.config = {
       extend: {
         colors: {
           'primary': '#fff',
+          'bottun': 'rgba(255, 255, 255, 0.50)',
           'secondary': '#000',
           'pera': '#6C6C6C',
           'common-bg': '#F40404',
